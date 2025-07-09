@@ -19,9 +19,11 @@ During this course, I gained knowledge in:
 - Using AI tools to create visual content like presentations and videos.
 - Collaborating in projects and improving my problem-solving and Python programming skills.
 
-## ⏳ Course Duration
+## ⏳ Course Duration and Schedule
 
-- Total Duration: **6 Months**
+- **Theory Course:** 3 hours per week  
+- **Lab Course:** 3 hours per week  
+- **Total Commitment:** 6 hours per week/ 6 months  
 
 ## 👨‍🏫 Supervisor
 

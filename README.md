@@ -25,7 +25,6 @@ During this course, I gained knowledge in:
 
 ## 👨‍🏫 Supervisor
 
-- **Razorshi Prozzwal Talukder
-           Lecturer
- B.Sc. (Engg.) in CSE, NEUB**
+- **Razorshi Prozzwal Talukder**                                                                                                                                                                                                          
+**  Lecturer [B.Sc. (Engg.) in CSE, NEUB]**
 

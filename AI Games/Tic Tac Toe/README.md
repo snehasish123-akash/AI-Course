@@ -15,7 +15,7 @@ Before running the game, make sure you have the following installed:
 
 ### ✅ Install Required Python Libraries
 
-Open your terminal or command prompt and run:    <u>pip install pygame numpy</u>
+Open your terminal or command prompt and run:   __ <u>pip install pygame numpy</u>__
 
 ## ▶️ How to Run the Game
 

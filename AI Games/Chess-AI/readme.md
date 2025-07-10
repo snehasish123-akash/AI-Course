@@ -16,10 +16,10 @@ Make sure you have installed all the required dependencies. Then simply run the 
 **"C:/Program Files/Python313/python.exe" c:/Users/FC/Downloads/python-tictactoe-ai-yt-main/python-tictactoe-ai-yt-main/tictactoe.py**
 
 -2️⃣ Install Pygame<br/>
-pip install pygame
+     **pip install pygame**
 
 -3️⃣ Install Required Libraries for Chess Game<br/>
-pip install pygame python-chess
+    **pip install pygame python-chess**
 
 
 ## 🎮 How to Play the Game

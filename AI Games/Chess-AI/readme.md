@@ -14,11 +14,10 @@ Make sure you have installed all the required dependencies. Then simply run the 
 
 -- 🧪 Test After Installation:
 **"C:/Program Files/Python313/python.exe" c:/Users/FC/Downloads/python-tictactoe-ai-yt-main/python-tictactoe-ai-yt-main/tictactoe.py**
-
--2️⃣ Install Pygame<br/>
+###2️⃣ Install Pygame<br/>
      **pip install pygame**
 
--3️⃣ Install Required Libraries for Chess Game<br/>
+###3️⃣ Install Required Libraries for Chess Game<br/>
     **pip install pygame python-chess**
 
 
@@ -39,9 +38,11 @@ Make sure you have installed all the required dependencies. Then simply run the 
 
 ---
 
+## Game Overview
+
+<img width="801" height="828" alt="Image" src="https://github.com/user-attachments/assets/a9898570-f48c-4a30-ac3c-346511d98202" />
+
 ## 🧠 Algorithm Used
 
 - ✅ **Minimax Algorithm**
 - ✅ **Alpha-Beta Pruning**
-
-

@@ -14,10 +14,11 @@ Make sure you have installed all the required dependencies. Then simply run the 
 
 -- 🧪 Test After Installation:
 **"C:/Program Files/Python313/python.exe" c:/Users/FC/Downloads/python-tictactoe-ai-yt-main/python-tictactoe-ai-yt-main/tictactoe.py**
-###2️⃣ Install Pygame<br/>
+
+--2️⃣ Install Pygame<br/>
      **pip install pygame**
 
-###3️⃣ Install Required Libraries for Chess Game<br/>
+--3️⃣ Install Required Libraries for Chess Game<br/>
     **pip install pygame python-chess**
 
 

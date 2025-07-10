@@ -38,7 +38,7 @@ Make sure you have Python installed on your computer. Then follow these steps:
 
 ## 🖼️ Game Screenshots
 
-<img width="604" height="632" alt="Image" src="https://github.com/user-attachments/assets/dea2b35d-3419-4534-8a2a-851bfa878bbf" />
+<img width="604" height="632" alt="Image" src="https://github.com/user-attachments/assets/a989b5b9-def3-4f66-bf98-5e0275d92336" />
 
 
 ## 🧠 Algorithm Used

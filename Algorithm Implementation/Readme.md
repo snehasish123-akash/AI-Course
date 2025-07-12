@@ -385,8 +385,9 @@ Each algorithm is implemented as a **standalone C++ program**. To use any algori
 
 To compile any algorithm, use the following command:
 
-g++ -o a_star a_star.cpp
-g++ -o bfs breadth_first_search.cpp
+
+--- g++ -o algorithm_name algorithm_name.cpp
+--- g++ -o bfs breadth_first_search.cpp
 
 
 

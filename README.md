@@ -30,3 +30,8 @@ During this course, I gained knowledge in:
 - **Razorshi Prozzwal Talukder**                                                                                                                                                                                                          
 **  Lecturer [B.Sc. (Engg.) in CSE, NEUB]**
 
+  ## 👨‍🏫 Authored by
+
+- **Snehasish Saha Roy Akash**                                                                                                                                                                                                          
+**  Student of NEUB [dept.of -CSE]**
+
